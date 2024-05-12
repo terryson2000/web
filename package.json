@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "deploy": "serve  -c ./serve.web.json -l 3010 "
+    "deploy": "git subtree push --prefix dist origin gh-pages"
   }
 }
