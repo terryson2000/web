@@ -9,15 +9,13 @@ lerna-debug.log*
 
 node_modules
 .DS_Store
-dist
-dist1
-dist-ssr
 coverage
 *.local
 
 /cypress/videos/
 /cypress/screenshots/
 
+packages.json
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
